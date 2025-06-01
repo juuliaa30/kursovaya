@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BSUIR2\\\u043A\u0440\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4579B2-A4D7-3DB0-79A1-9E3D45589605}|Assembly-CSharp.csproj|D:\\BSUIR2\\\u043A\u0440\\Server\\assets\\scripts\\racemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4579B2-A4D7-3DB0-79A1-9E3D45589605}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\racemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4579B2-A4D7-3DB0-79A1-9E3D45589605}|Assembly-CSharp.csproj|D:\\BSUIR2\\\u043A\u0440\\Server\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4579B2-A4D7-3DB0-79A1-9E3D45589605}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4579B2-A4D7-3DB0-79A1-9E3D45589605}|Assembly-CSharp.csproj|D:\\BSUIR2\\\u043A\u0440\\Server\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4579B2-A4D7-3DB0-79A1-9E3D45589605}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4579B2-A4D7-3DB0-79A1-9E3D45589605}|Assembly-CSharp.csproj|D:\\BSUIR2\\\u043A\u0440\\Server\\assets\\scripts\\multiplayer\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4579B2-A4D7-3DB0-79A1-9E3D45589605}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\multiplayer\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4579B2-A4D7-3DB0-79A1-9E3D45589605}|Assembly-CSharp.csproj|d:\\bsuir2\\\u043A\u0440\\server\\assets\\scripts\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4579B2-A4D7-3DB0-79A1-9E3D45589605}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4579B2-A4D7-3DB0-79A1-9E3D45589605}|Assembly-CSharp.csproj|D:\\BSUIR2\\\u043A\u0440\\Server\\assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4579B2-A4D7-3DB0-79A1-9E3D45589605}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinishLine.cs",
+              "DocumentMoniker": "D:\\BSUIR2\\\u043A\u0440\\Server\\Assets\\Scripts\\FinishLine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLine.cs",
+              "ToolTip": "D:\\BSUIR2\\\u043A\u0440\\Server\\Assets\\Scripts\\FinishLine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:09:16.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RaceManager.cs",
+              "DocumentMoniker": "D:\\BSUIR2\\\u043A\u0440\\Server\\Assets\\Scripts\\RaceManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RaceManager.cs",
+              "ToolTip": "D:\\BSUIR2\\\u043A\u0440\\Server\\Assets\\Scripts\\RaceManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RaceManager.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAqwKQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:06:01.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\BSUIR2\\\u043A\u0440\\Server\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\BSUIR2\\\u043A\u0440\\Server\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAqwH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:32:07.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameLogic.cs",
+              "DocumentMoniker": "D:\\BSUIR2\\\u043A\u0440\\Server\\Assets\\Scripts\\GameLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameLogic.cs",
+              "ToolTip": "D:\\BSUIR2\\\u043A\u0440\\Server\\Assets\\Scripts\\GameLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameLogic.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:29:49.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\BSUIR2\\\u043A\u0440\\Server\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\BSUIR2\\\u043A\u0440\\Server\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAQwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:12:32.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkManager.cs",
+              "DocumentMoniker": "D:\\BSUIR2\\\u043A\u0440\\Server\\Assets\\Scripts\\Multiplayer\\NetworkManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Multiplayer\\NetworkManager.cs",
+              "ToolTip": "D:\\BSUIR2\\\u043A\u0440\\Server\\Assets\\Scripts\\Multiplayer\\NetworkManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Multiplayer\\NetworkManager.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:33:20.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
